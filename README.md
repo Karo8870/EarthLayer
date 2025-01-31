@@ -4,6 +4,8 @@ Globify is an interactive 3D globe that allows users to explore the Earth throug
 
 🌐 **Available in English & Romanian** for a wider audience!
 
+<img width="1800" alt="Screenshot 2025-01-31 at 22 56 57" src="https://github.com/user-attachments/assets/78607bcb-bd84-44e5-8008-fb81f6d01edd" />
+
 ## 🌎 Available Layers
 
 Currently, Globify supports the following layers:
@@ -11,6 +13,8 @@ Currently, Globify supports the following layers:
 - **Hydrography** – Explore the world's bodies of water.
 - **Vegetation** – View global vegetation patterns.
 - **Climate** – Understand different climate zones.
+
+<img width="172" alt="image" src="https://github.com/user-attachments/assets/c7980c43-0a47-43e9-89ed-7020a747480e" />
 
 ## 🛠️ Technologies Used
 
