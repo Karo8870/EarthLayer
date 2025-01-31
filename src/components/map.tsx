@@ -38,7 +38,7 @@ export default function ({
   return (
     <Globe
       globeImageUrl={`/${maps.find((map) => map.key === selectedMap)!.image}`}
-      backgroundImageUrl='/white-space.png'
+      backgroundImageUrl='/night-sky.png'
       polygonAltitude={(pol: any) =>
         pol === hoveredP ? 0.05 : pol.properties.elevation
       }

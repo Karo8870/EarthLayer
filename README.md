@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌍 Globify – The Interactive 3D Earth Explorer
 
-## Getting Started
+Globify is an interactive 3D globe that allows users to explore the Earth through multiple layers and map styles. With dynamic stratification, you can visualize various geographical and environmental aspects in an immersive way.
 
-First, run the development server:
+🌐 **Available in English & Romanian** for a wider audience!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌎 Available Layers
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Currently, Globify supports the following layers:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Hydrography** – Explore the world's bodies of water.
+- **Vegetation** – View global vegetation patterns.
+- **Climate** – Understand different climate zones.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🛠️ Technologies Used
 
-## Learn More
+Globify is built with modern web technologies to ensure a smooth and interactive experience:
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js** – For optimized performance and seamless rendering.
+- **Tailwind CSS** – For a sleek and responsive design.
+- **React GlobeGL** – To power the 3D globe visualization.
+- **Figma** – Used for generating and refining map layers.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🗺️ Map Format & Data Sources
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+To ensure seamless adaptation to the 3D globe, maps must be in **Equirectangular Projection**, one of the most widely used formats for representing globes in 2D.
 
-## Deploy on Vercel
+The **Climate and Vegetation layers** in Globify are based on the research maps of **Dr. Prof. Marius Țiu**, ensuring scientific accuracy in data representation.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+Globify brings the world to your screen like never before! 🌐✨ Now available in **English & Romanian** for a better user experience! 🇬🇧🇷🇴
