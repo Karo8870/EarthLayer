@@ -15,7 +15,7 @@ const eudoxus = localFont({
 });
 
 export const metadata: Metadata = {
-  title: 'Globify',
+  title: 'EarthLayer',
   description: 'The best geography tool'
 };
 
